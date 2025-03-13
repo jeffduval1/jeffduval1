@@ -1,6 +1,5 @@
 - 👋 Bonjour, je suis @jeffduval1
 - 👀 Je suis intéressé par le développement frontend utilisant principalement Javascript et ses frameworks
-- 🌱 Vous trouverez sur ce github mon portfolio qui vous permettra d'en apprendre plus sur moi et sur mes projets réalisés par le pass
 - 📫 Mon numéro de cellulaire: 418-554-5828
 - Mon adresse courriel: kfu1@hotmail.fr
 - ⚡ À propos de moi: Bon vivant, travailleur dévoué, passionné 
