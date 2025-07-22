@@ -15,7 +15,7 @@ Solide expérience avec Looker Studio, GA4, HTML/CSS, javascript, TYPO3 et une a
 
 ---
 
-## 🧪 Projet personnel phare : Outil de gestion de notes et catégories
+## 🧪 Projet personnel phare : Outil de gestion de notes et catégories (En continu)
 
 <img src="./images/eventually.png" alt="Capture du projet" width="400"/>
 
