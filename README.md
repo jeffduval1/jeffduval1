@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Jean-François Duval
 
 Intégrateur web passionné par l’UX, les outils intelligents et la clarté visuelle.  
-Solide expérience avec Looker Studio, GA4, HTML/CSS, TYPO3 et une attention constante à l’accessibilité web
+Solide expérience avec Looker Studio, GA4, HTML/CSS, javascript, TYPO3 et une attention constante à l’accessibilité web
 
 ---
 
@@ -17,7 +17,7 @@ Solide expérience avec Looker Studio, GA4, HTML/CSS, TYPO3 et une attention con
 
 ## 🧪 Projet personnel phare : Outil de gestion de notes et catégories
 
-<img src="./images/eventually.png" alt="Capture du projet" width="600"/>
+<img src="./images/eventually.png" alt="Capture du projet" width="400"/>
 
 Développement complet d’une application web de prise de notes :
 - 💾 Stockage local avec **IndexedDB**
@@ -26,7 +26,7 @@ Développement complet d’une application web de prise de notes :
 - 🧭 UX structurée pour adaptation mobile / desktop
 - 🔧 Filtres dynamiques, import/export JSON, choix de couleurs, gestion de la corbeille
 
-> 🔗 [Voir le dépôt du projet](https://github.com/jeffduval1/memo-moteur)  
+> 🔗 [Voir le dépôt du projet](https://github.com/jeffduval1/eventually)  
 > 📎 Bientôt disponible en version hébergée
 
 ---
@@ -44,6 +44,6 @@ Développement complet d’une application web de prise de notes :
 
 - ✉️ [jfduval.web@outlook.com](mailto:jfduval.web@outlook.com)
 - 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/jeanfrancoisduval)
-- 🌐 En cours de création : portfolio personnel
+- 🌐 [Mon portfolio](https://github.com/jeffduval1/portfolio))
 
 ---
