@@ -17,7 +17,7 @@ Solide expérience avec Looker Studio, GA4, HTML/CSS, TYPO3 et une attention con
 
 ## 🧪 Projet personnel phare : Outil de gestion de notes et catégories
 
-<img src="assets/project-screenshot.png" alt="Capture du projet" width="600"/>
+<img src="./images/eventually.png" alt="Capture du projet" width="600"/>
 
 Développement complet d’une application web de prise de notes :
 - 💾 Stockage local avec **IndexedDB**
