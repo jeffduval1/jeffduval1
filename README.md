@@ -26,8 +26,8 @@ Développement complet d’une application web de prise de notes :
 - 🧭 UX structurée pour adaptation mobile / desktop
 - 🔧 Filtres dynamiques, import/export JSON, choix de couleurs, gestion de la corbeille
 
-> 🔗 [Voir le dépôt du projet](https://github.com/jeffduval1/eventually)  
-> 🔗 [Voir la documentation] (https://jeffduval1.github.io/eventually_doc/)
+> 🔗 [Voir le dépôt du projet](https://github.com/jeffduval1/eventually)
+> 🔗 [Voir la documentation](https://jeffduval1.github.io/eventually_doc/)
 
 ---
 
