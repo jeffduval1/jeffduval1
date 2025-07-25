@@ -29,11 +29,10 @@ Développement complet d’une application web de prise de notes :
 - 🔧 Filtres dynamiques, import/export JSON, choix de couleurs, gestion de la corbeille
 - À venir : Composants gérés par l'IA, utilisation d'API, design personnalisable par l'utilisateur, barres d'outils, rappels, etc.
 
-> 🔗 [Voir le dépôt du projet](https://github.com/jeffduval1/eventually)
-> 🔗 [Voir la documentation](https://jeffduval1.github.io/eventually_doc/)
-> 🔗 [Voir le dépôt du projet](https://jeffduval1.github.io/portfolio/)
-> 🔗 [Voir le dépôt du projet](https://jeffduval1.github.io/eventually_doc/)
-> 🔗 [Voir le dépôt du projet](https://jeffduval1.github.io/cv-jf-duval/)
+🔗 [Dépôt du projet Eventually](https://github.com/jeffduval1/eventually)  
+📘 [Documentation interactive](https://jeffduval1.github.io/eventually_doc/)  
+🌐 [Portfolio personnel](https://jeffduval1.github.io/portfolio/)  
+📄 [CV en ligne](https://jeffduval1.github.io/cv-jf-duval/)
 
 ---
 
