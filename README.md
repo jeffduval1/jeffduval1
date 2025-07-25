@@ -50,5 +50,6 @@ Développement complet d’une application web de prise de notes :
 - ✉️ [jfduval.web@outlook.com](mailto:jfduval.web@outlook.com)
 - 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/jeanfrancoisduval)
 - 🌐 [Voir mon portfolio en ligne](https://jeffduval1.github.io/portfolio/)
+- 📞 [418 554-5828](tel:4185545828)  
 
 ---
