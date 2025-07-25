@@ -1,13 +1,15 @@
 # 👋 Salut, je suis Jean-François Duval
 
-Intégrateur web passionné par l’UX, les outils intelligents et la clarté visuelle.  
-Solide expérience avec Looker Studio, GA4, HTML/CSS, javascript, TYPO3 et une attention constante à l’accessibilité web
+Développeur/Intégrateur web passionné par l’UX, les outils intelligents et la clarté visuelle.  
+Solide expérience avec HTML/CSS, javascript, TYPO3 et une attention constante à l’accessibilité web
+Passionné par la performance, l'IA et la maintenabilité du code
 
 ---
 
 ## 🛠️ Compétences techniques
 
 - **Frontend** : HTML5, CSS3 (BEM, Flexbox, Grid), JavaScript (vanilla), Responsive Design
+- **Frameworks** : React.js et Vue.js explorés
 - **CMS** : TYPO3, WordPress (bases), Formspree, connaissances de base en PHP
 - **Outils d'analyse** : Google Analytics 4, Looker Studio (avancé), UTM, suivi des événements
 - **Outils** : Git, GitHub, Suite Adobe
@@ -25,15 +27,19 @@ Développement complet d’une application web de prise de notes :
 - 🎨 Interface responsive et personnalisée
 - 🧭 UX structurée pour adaptation mobile / desktop
 - 🔧 Filtres dynamiques, import/export JSON, choix de couleurs, gestion de la corbeille
+- À venir : Composants gérés par l'IA, utilisation d'API, design personnalisable par l'utilisateur, barres d'outils, rappels, etc.
 
 > 🔗 [Voir le dépôt du projet](https://github.com/jeffduval1/eventually)
 > 🔗 [Voir la documentation](https://jeffduval1.github.io/eventually_doc/)
+> 🔗 [Voir le dépôt du projet](https://jeffduval1.github.io/portfolio/)
+> 🔗 [Voir le dépôt du projet](https://jeffduval1.github.io/eventually_doc/)
+> 🔗 [Voir le dépôt du projet](https://jeffduval1.github.io/cv-jf-duval/)
 
 ---
 
 ## 🔍 Ce que je recherche actuellement
 
-🎯 Un nouveau défi en tant qu’**intégrateur web** ou **spécialiste UX**  
+🎯 Un nouveau défi en tant que **développeur frontend** ou **développement d'applications**  
 🤝 De préférence dans un environnement stimulant, avec une culture humaine  
 🌐 Télétravail, mode hybride ou contrat public / parapublic  
 🧠 Projets stimulants valorisant la qualité du produit et le souci du détail
