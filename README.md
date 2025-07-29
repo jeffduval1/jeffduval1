@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Jean-François Duval
 
-Développeur/Intégrateur web passionné par l’UX, les outils intelligents et un design clair.  
+Développeur/Intégrateur web passionné par l’UX, les outils intelligents et le design clair.  
 Solide expérience en HTML/CSS, Javascript, TYPO3 et une attention constante à l’accessibilité web.  
 Passionné par la performance, l'IA et la maintenabilité du code.
 
@@ -9,12 +9,13 @@ Passionné par la performance, l'IA et la maintenabilité du code.
 ## 🛠️ Compétences techniques
 
 - **Frontend** : HTML5, CSS3 (BEM, Flexbox, Grid), JavaScript (vanilla), Responsive Design.
-- **Backend** : PHP (base), Node.js actuellement en exploration.
+- **Backend** : PHP (base), Node.js (en exploration).
 - **Frameworks** : Exploration de React.js et Vue.js; apprentissage en cours d’Angular.
-- **CMS** : TYPO3, WordPress (bases), Formspree.
-- **Outils d'analyse** : Google Analytics 4, Looker Studio (avancé), UTM, suivi des événements.
-- **Outils** : Git, GitHub, Suite Adobe.
-- **Accessibilité** : conformité WCAG, tables accessibles, structure sémantique claire.
+- **Bases de données & stockage** : MySQL, indexedDB, localStorage
+- **Outils** : Git, GitHub, Suite Adobe, Figma, Formspree.
+- **CMS** : TYPO3, WordPress (bases).
+- **Analyse & suivi** : Google Analytics 4, Looker Studio (intermédiaire), UTM, suivi des événements.
+- **Accessibilité** : Conformité WCAG, tables accessibles, structure sémantique claire.
 
 ---
 ## 🚀 Projets déployés
@@ -66,16 +67,7 @@ Développement complet de Eventually, une application web de prise de notes hié
 - 🎨 Interface responsive et personnalisée
 - 🧭 UX structurée pour adaptation mobile / desktop
 - 🔧 Filtres dynamiques, import/export JSON, choix de couleurs, gestion de la corbeille
-- À venir : Composants gérés par l'IA, utilisation d'API, design personnalisable par l'utilisateur, barres d'outils, rappels, etc.
-
----
-
-## 🔍 Ce que je recherche actuellement
-
-🎯 Un nouveau défi en tant que **développeur frontend** ou **développement d'applications**  
-🤝 De préférence dans un environnement stimulant, avec une culture humaine et collaborative  
-🌐 Télétravail, mode hybride ou contrat public / parapublic  
-🧠 Projets stimulants valorisant la qualité du produit et le souci du détail
+- À venir : Composants assistés par l'IA, utilisation d'API, design personnalisable par l'utilisateur, barres d'outils, rappels, etc.
 
 ---
 
@@ -84,7 +76,7 @@ Développement complet de Eventually, une application web de prise de notes hié
 Développement d’une application web Angular avec backend Node.js/Express pour la révision active :
 
 - 📚 **Cartes de révision personnalisables**, organisées par thème, niveau et priorité  
-- 👥 **Système collaboratif** : partage de cartes, sessions multi-utilisateurs, attribution par rôle  
+- 👥 **Système collaboratif** : partage de cartes, sessions multi-utilisateurs, rôles dédiés  
 - 🧠 **Moteur de répétition intelligente** pour favoriser la mémorisation à long terme  
 - 📊 **Suivi des progrès** par utilisateur ou groupe, avec filtres dynamiques et stats visuelles  
 - 🔐 Authentification, permissions, sauvegarde en base de données (MongoDB ou autre)  
@@ -96,6 +88,13 @@ Développement d’une application web Angular avec backend Node.js/Express pour
 💡 *Memo-Connect vise à offrir une plateforme structurée et intuitive pour apprendre ensemble, efficacement.*
 
 ---
+
+## 🔍 Ce que je recherche actuellement
+
+🎯 Un nouveau défi en tant que **développeur frontend** ou **développement d'applications**  
+🤝 De préférence dans un environnement stimulant, avec une culture humaine et collaborative  
+🌐 Télétravail, mode hybride ou contrat
+🧠 Projets stimulants valorisant la qualité du produit et le souci du détail
 
 ## 📫 Me contacter
 
