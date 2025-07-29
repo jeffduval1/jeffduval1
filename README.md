@@ -99,7 +99,7 @@ Développement d’une application web Angular avec backend Node.js/Express pour
 ## 📫 Me contacter
 
 - ✉️ [jfduval.web@outlook.com](mailto:jfduval.web@outlook.com)
-- 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/jeanfrancoisduval)
+- 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/jean-francois-duval-web)
 - 🌐 [Voir mon portfolio en ligne](https://jeffduval1.github.io/portfolio/)
 - 📞 [418 554-5828](tel:4185545828)  
 
