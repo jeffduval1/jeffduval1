@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Jean-François Duval
 
-Développeur/Intégrateur web passionné par l’UX, les outils intelligents et la clarté visuelle.  
+Développeur/Intégrateur web passionné par l’UX, les outils intelligents et un design clair.  
 Solide expérience en HTML/CSS, Javascript, TYPO3 et une attention constante à l’accessibilité web.  
 Passionné par la performance, l'IA et la maintenabilité du code.
 
