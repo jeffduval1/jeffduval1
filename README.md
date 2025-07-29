@@ -16,7 +16,14 @@ Passionné par la performance, l'IA et la maintenabilité du code.
 - **Accessibilité** : conformité WCAG, tables accessibles, structure sémantique claire
 
 ---
+## 🚀 Projets déployés
 
+| Projet              | Démo en ligne                                      | Code source                                      | Documentation interactive                        |
+|---------------------|----------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| **Eventually**       | [Voir le projet](https://jeffduval1.github.io/eventually/)       | [Dépôt GitHub](https://github.com/jeffduval1/eventually)       | [Documentation](https://jeffduval1.github.io/eventually_doc/)       |
+| **Memo-Connect**     | *(à venir)*                                       | [Dépôt GitHub](https://github.com/jeffduval1/memo-connect)     | [Documentation](https://jeffduval1.github.io/memo-connect_doc/)     |
+
+---
 ## 🧪 Projet personnel phare : Outil de gestion de notes et catégories (En continu)
 
 <img src="./images/eventually.png" alt="Capture du projet" width="400"/>
