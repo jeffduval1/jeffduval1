@@ -18,15 +18,14 @@ Passionné par la performance, l'IA et la maintenabilité du code.
 ---
 ## 🚀 Projets déployés
 
-| Projet                   | URL GitHub Pages                                                     | Type                        | Description                                                                 |
-|--------------------------|----------------------------------------------------------------------|-----------------------------|-----------------------------------------------------------------------------|
-| **Portfolio personnel**  | [Voir](https://jeffduval1.github.io/portfolio/)                     | Portfolio                   | Site personnel mettant en valeur mon parcours, mes projets et mon profil. |
-| **Eventually**           | [Voir](https://jeffduval1.github.io/eventually/)                    | Application web             | Outil de gestion de notes hiérarchisées avec filtres, corbeille, et plus. |
-| **Doc. Eventually**      | [Voir](https://jeffduval1.github.io/eventually_doc/)                | Documentation interactive   | Index technique du projet Eventually avec structure et explications.      |
-| **Memo-Connect**         | *(à venir)*                                                          | Application collaborative   | Application Angular pour réviser activement avec cartes, filtres et suivi.|
-| **Doc. Memo-Connect**    | [Voir](https://jeffduval1.github.io/memo-connect_doc/)              | Documentation interactive   | Documentation technique de l’architecture complète de Memo-Connect.       |
-| **CV interactif**        | [Voir](https://jeffduval1.github.io/CV_Jean-Francois_Duval_Complet.html) | CV web                      | CV HTML/CSS épuré, interactif et consultable en ligne.                     |
-
+| Projet                   | URL GitHub Pages                                         | Type                      | Description                                                                 | Code source              |
+|--------------------------|----------------------------------------------------------|---------------------------|-----------------------------------------------------------------------------|--------------------------|
+| **Portfolio personnel**  | [Voir](https://jeffduval1.github.io/portfolio/)         | Portfolio                 | Site personnel mettant en valeur mon parcours, mes projets et mon profil. | [GitHub](https://github.com/jeffduval1/portfolio)         |
+| **Eventually**           | *(à venir)*                                              | Application web           | Outil de gestion de notes hiérarchisées avec filtres, corbeille, et plus. | [GitHub](https://github.com/jeffduval1/eventually)        |
+| **Doc. Eventually**      | [Voir](https://jeffduval1.github.io/eventually_doc/)    | Documentation interactive | Index technique du projet Eventually avec structure et explications.      | [GitHub](https://github.com/jeffduval1/eventually_doc)    |
+| **Memo-Connect**         | *(à venir)*                                              | Application collaborative | Application Angular pour réviser activement avec cartes, filtres et suivi.| [GitHub](https://github.com/jeffduval1/memo-connect)      |
+| **Doc. Memo-Connect**    | [Voir](https://jeffduval1.github.io/memo-connect_doc/)  | Documentation interactive | Documentation technique de l’architecture complète de Memo-Connect.       | [GitHub](https://github.com/jeffduval1/memo-connect_doc)  |
+| **CV interactif**        | [Voir](https://jeffduval1.github.io/CV_Jean-Francois_Duval_Complet.html) | CV web                    | CV HTML/CSS épuré, interactif et consultable en ligne.                     | [GitHub](https://github.com/jeffduval1/CV_Jean-Francois_Duval_Complet) |
 
 ---
 ## 🧪 Projet personnel phare : Outil de gestion de notes et catégories (En continu)
