@@ -60,7 +60,7 @@ Passionné par la performance, l'IA et la maintenabilité du code.
 
 <img src="./images/eventually.png" alt="Capture du projet" width="400"/>
 
-Développement complet d’une application web de prise de notes :
+Développement complet de Eventually, une application web de prise de notes hiérarchisées :
 - 💾 Stockage local avec **IndexedDB**
 - 🧱 Architecture modulaire (cartes, catégories, filtres, corbeille…)
 - 🎨 Interface responsive et personnalisée
@@ -73,9 +73,27 @@ Développement complet d’une application web de prise de notes :
 ## 🔍 Ce que je recherche actuellement
 
 🎯 Un nouveau défi en tant que **développeur frontend** ou **développement d'applications**  
-🤝 De préférence dans un environnement stimulant, avec une culture humaine  
+🤝 De préférence dans un environnement stimulant, avec une culture humaine et collaborative  
 🌐 Télétravail, mode hybride ou contrat public / parapublic  
 🧠 Projets stimulants valorisant la qualité du produit et le souci du détail
+
+---
+
+## 🧩 Projet évolutif : Plateforme de révision collaborative (Memo-Connect)
+
+Développement d’une application web Angular avec backend Node.js/Express pour la révision active :
+
+- 📚 **Cartes de révision personnalisables**, organisées par thème, niveau et priorité  
+- 👥 **Système collaboratif** : partage de cartes, sessions multi-utilisateurs, attribution par rôle  
+- 🧠 **Moteur de répétition intelligente** pour favoriser la mémorisation à long terme  
+- 📊 **Suivi des progrès** par utilisateur ou groupe, avec filtres dynamiques et stats visuelles  
+- 🔐 Authentification, permissions, sauvegarde en base de données (MongoDB ou autre)  
+- 🎨 Interface responsive, claire et modulable selon le type d’utilisateur  
+- 🔧 À venir : Filtres par tag, calendrier d’étude, suggestions IA, notifications, outils d’édition avancés  
+
+---
+
+💡 *Memo-Connect vise à offrir une plateforme structurée et intuitive pour apprendre ensemble, efficacement.*
 
 ---
 
