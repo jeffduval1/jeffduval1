@@ -15,7 +15,7 @@ Passionné par la performance, l'IA et la maintenabilité du code.
 - **Outils** : Git, GitHub, Suite Adobe, Figma, Formspree.
 - **CMS** : TYPO3, WordPress (bases).
 - **Analyse & suivi** : Google Analytics 4, Looker Studio (intermédiaire), UTM, suivi des événements.
-- **Accessibilité** : Conformité WCAG, tables accessibles, structure sémantique claire.
+- **Accessibilité** : Conformité WCAG, tableaux accessibles, structure sémantique claire.
 
 ---
 ## 🚀 Projets déployés
