@@ -43,6 +43,7 @@ Passionné par la performance, l'IA et la maintenabilité du code.
 - 📁 [Code source](https://github.com/jeffduval1/memo-connect)
 - 🧾 Type : Application collaborative
 - ✏️ Description : Application Angular pour réviser activement avec cartes, filtres et suivi.
+- 🗂️ [Kanban du projet](https://trello.com/b/E0HVTX14/m%C3%A9mo-connect)
 
 ### 5. 📘 Documentation Memo-Connect
 - 💻 [Voir la doc](https://jeffduval1.github.io/memo-connect_doc/)
