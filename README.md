@@ -52,8 +52,7 @@ Passionné par la performance, l'IA et la maintenabilité du code.
 - ✏️ Description : Documentation technique de l’architecture complète de Memo-Connect.
 
 ### 6. 📄 CV interactif
-- 💻 [Voir le CV](https://jeffduval1.github.io/CV_Jean-Francois_Duval_Complet.html)
-- 📁 [Code source](https://github.com/jeffduval1/CV_Jean-Francois_Duval_Complet)
+- 💻 [Voir le CV](https://jeffduval1.github.io/cv-jf-duval.html)
 - 🧾 Type : CV web
 - ✏️ Description : CV HTML/CSS épuré, interactif et consultable en ligne.
 
